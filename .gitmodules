@@ -1,3 +1,6 @@
 [submodule "cuda"]
 	path = cuda
 	url = git@gist.github.com:6778b6545c41f0e8c774.git
+[submodule "chainer"]
+	path = chainer
+	url = git@gist.github.com:1305733ab660a9b1a2e0.git
