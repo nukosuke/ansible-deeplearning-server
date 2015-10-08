@@ -4,3 +4,6 @@
 [submodule "chainer"]
 	path = chainer
 	url = git@gist.github.com:1305733ab660a9b1a2e0.git
+[submodule "python"]
+	path = python
+	url = git@gist.github.com:d5c1519ce8093721e5b2.git
