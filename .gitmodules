@@ -7,3 +7,6 @@
 [submodule "python"]
 	path = python
 	url = git@gist.github.com:d5c1519ce8093721e5b2.git
+[submodule "digits"]
+	path = digits
+	url = git@github.com:naist-ubi/ansible-nvidia-digits.git
