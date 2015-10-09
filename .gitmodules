@@ -1,9 +1,12 @@
 [submodule "cuda"]
 	path = cuda
-	url = git@gist.github.com:6778b6545c41f0e8c774.git
+	url = git@github.com:naist-ubi/ansible-cuda.git
 [submodule "chainer"]
 	path = chainer
-	url = git@gist.github.com:1305733ab660a9b1a2e0.git
+	url = git@github.com:naist-ubi/ansible-chainer.git
 [submodule "python"]
 	path = python
-	url = git@gist.github.com:d5c1519ce8093721e5b2.git
+	url = git@github.com:naist-ubi/ansible-python.git
+[submodule "digits"]
+	path = digits
+	url = git@github.com:naist-ubi/ansible-nvidia-digits.git
